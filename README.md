@@ -1,3 +1,3 @@
 # My-restaurant
 
-![wireframe](Untitled.jpg)
+![wireframe](Untitled.png)
